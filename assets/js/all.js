@@ -2,6 +2,7 @@
 
 $(function () {
   console.log('Hello Bootstrap5');
+  alert(1230);
 });
 var swiper = new Swiper(".mySwiper", {
   slidesPerView: 'auto',
